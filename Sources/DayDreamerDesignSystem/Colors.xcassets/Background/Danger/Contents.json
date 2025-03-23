@@ -1,0 +1,9 @@
+{
+  "info": {
+    "author": "color2code-xcode-exporter",
+    "version": 1
+  },
+  "properties": {
+    "provides-namespace": true
+  }
+}
