@@ -21,7 +21,7 @@ let package = Package(
         .target(
             name: "DaydreamerDesignSystem",
             resources: [
-                .process("Colors.xcassets", localization: .none)
+                .process("ColorSystem.xcassets", localization: .none)
             ]),
 
     ]
