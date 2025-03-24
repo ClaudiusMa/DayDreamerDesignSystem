@@ -1,56 +1,56 @@
 {
-  "colors": [
+  "colors" : [
     {
-      "color": {
-        "color-space": "display-p3",
-        "components": {
-          "alpha": "1.000",
-          "blue": "0x1e",
-          "green": "0x1e",
-          "red": "0x1e"
+      "color" : {
+        "color-space" : "display-p3",
+        "components" : {
+          "alpha" : "1.000",
+          "blue" : "0x1E",
+          "green" : "0x1E",
+          "red" : "0x1E"
         }
       },
-      "idiom": "universal"
+      "idiom" : "universal"
     },
     {
-      "appearances": [
+      "appearances" : [
         {
-          "appearance": "luminosity",
-          "value": "light"
+          "appearance" : "luminosity",
+          "value" : "light"
         }
       ],
-      "color": {
-        "color-space": "display-p3",
-        "components": {
-          "alpha": "1.000",
-          "blue": "0x1e",
-          "green": "0x1e",
-          "red": "0x1e"
+      "color" : {
+        "color-space" : "display-p3",
+        "components" : {
+          "alpha" : "1.000",
+          "blue" : "0x1E",
+          "green" : "0x1E",
+          "red" : "0x1E"
         }
       },
-      "idiom": "universal"
+      "idiom" : "universal"
     },
     {
-      "appearances": [
+      "appearances" : [
         {
-          "appearance": "luminosity",
-          "value": "dark"
+          "appearance" : "luminosity",
+          "value" : "dark"
         }
       ],
-      "color": {
-        "color-space": "display-p3",
-        "components": {
-          "alpha": "1.000",
-          "blue": "0xd9",
-          "green": "0xd9",
-          "red": "0xd9"
+      "color" : {
+        "color-space" : "display-p3",
+        "components" : {
+          "alpha" : "1.000",
+          "blue" : "0xD9",
+          "green" : "0xD9",
+          "red" : "0xD9"
         }
       },
-      "idiom": "universal"
+      "idiom" : "universal"
     }
   ],
-  "info": {
-    "author": "Claudius Chuxuan Ma",
-    "version": 1
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
   }
 }

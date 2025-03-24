@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "DaydreamerDesignSystem",
-        platforms: [
+    platforms: [
         .iOS(.v13),
         .macOS(.v10_15)
     ],
@@ -15,12 +15,12 @@ let package = Package(
             name: "DaydreamerDesignSystem",
             targets: ["DaydreamerDesignSystem"]),
     ],
+    dependencies: [
+        // No dependencies needed for now
+    ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "DaydreamerDesignSystem"
-        ),
-
+        )
     ]
 )
